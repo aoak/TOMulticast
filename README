@@ -1,0 +1,5 @@
+Project: Distributed control of the currency value.
+
+Description: This project aims to have a distributed application which maintains the value of currency in form (buyValue, sellValue). The application is supposed to run on three nodes which communicate using TCP sockets. All the nodes should see the updates to the currency value in same order. This is done using Lamport's logical clocks.
+
+NOTE: This is an academic project done for course Distributed Computing in University of Florida.
